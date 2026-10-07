@@ -36,7 +36,7 @@ Hotkey = 0x2E
 
 *   [Skyrim Special Edition (1.5.97 / 1.6.x+)](https://steampowered.com)
 *   [SKSE64](https://silverlock.org)
-*   [Address Library for SKSE Plugins]([https://nexusmods.com](https://www.nexusmods.com/skyrimspecialedition/mods/32444))
+*   [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
 *   
 
 ## Building from Source
